@@ -13,7 +13,7 @@ Developed Information Security policy for fictitional SimplyCyber Financials to 
 - <b>Microsoft Word</b>
 
 
-<h3><a href="" align="left">SimplyCyber Financials Information Security Policy</a></h3>
+<h3><a href="https://github.com/arielbethea/InformationSecurityPolicy/blob/main/Ariel%20Bethea%20-%20SimplyCyber%20Financials%20Information%20Security%20Policy%20-%20Lab.pdf" align="left">SimplyCyber Financials Information Security Policy</a></h3>
 </p>
 
 <!--
