@@ -9,7 +9,7 @@ Developed Information Security policy for fictitional SimplyCyber Financials to 
 
 <h2>Utilities Used</h2>
 
-- <b>NIST Cybersecurity Framework (CSF) SP 800-53</b>
+- <b>NIST  SP 800-53</b>
 - <b>Microsoft Word</b>
 
 
