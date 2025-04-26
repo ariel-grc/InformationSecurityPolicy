@@ -1,7 +1,7 @@
 <h1>Information Security Policy Lab</h1>
 
 <h2>Description</h2>
-Developed Information Security policy for fictitional SimplyCyber Financials to establish authorized access management and authenticator management for internal and third-party personnel. Ensured policy documents are aligned with business objectives, implementable by the organization, and practical for compliance by ensuring purpose, scope, authority, and policy statements incorporate operational perspective and constraints.
+Developed Information Security policy for fictional SimplyCyber Financials to establish authorized access management and authenticator management for internal and third-party personnel. Ensured policy documents are aligned with business objectives, implementable by the organization, and practical for compliance by ensuring purpose, scope, authority, and policy statements incorporate operational perspective and constraints.
  
 
 <br />
